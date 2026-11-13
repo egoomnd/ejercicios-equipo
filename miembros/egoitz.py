@@ -10,3 +10,4 @@
 NOMBRE = "Egopro"   # cómo se llama tu luchador (puedes inventarte un apodo)
 VIDA = 25              # cuántos golpes aguanta (máximo 30)
 ATAQUE = 6             # lo fuerte que pega (máximo 8)
+GRITO = "Iñigo perro sanche"
