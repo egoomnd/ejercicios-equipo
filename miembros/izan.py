@@ -7,6 +7,6 @@
 #
 # Este es tu luchador. Solo tienes que cambiar los valores de abajo.
 
-NOMBRE = "TU_NOMBRE"   # cómo se llama tu luchador (puedes inventarte un apodo)
+NOMBRE = "izan"   # cómo se llama tu luchador (puedes inventarte un apodo)
 VIDA = 15              # cuántos golpes aguanta (máximo 30)
 ATAQUE = 8            # lo fuerte que pega (máximo 8)
